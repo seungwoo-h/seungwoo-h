@@ -4,7 +4,8 @@ My main focus is on machine learning and data science.
 - **Current Status**
   - Student @ University of Amsterdam  
   - Trainee @ Boostcamp AI Tech 2021  
-  
+ 
+- **More about Myself**
 - [Resume (KOR)](https://www.notion.so/Resume-c1601344581d4dc6b74c635e9bd251af)
 - [Resume (EN)](https://drive.google.com/file/d/1164lOj1MMd94_mWkuY7BDlZKzl7z3glg/view?usp=sharing)  
   
