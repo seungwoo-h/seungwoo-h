@@ -1,6 +1,6 @@
 ### 안녕하세요 👋  
 I am passionate about learning new technologies.  
-My main focus is on machine learning.  
+My main focus is on machine learning and data science.  
 - Student @ University of Amsterdam  
 - Trainee @ Boostcamp AI Tech 2021  
 - [Resume (KOR)](https://www.notion.so/Resume-c1601344581d4dc6b74c635e9bd251af)
